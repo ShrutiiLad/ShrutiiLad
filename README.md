@@ -1,4 +1,4 @@
-## Hi there 👋
+Hello👋
 
 ## 🛠️ Tech Stack & Tools
 
