@@ -1,4 +1,4 @@
-###Hello! I'm an AI/ML enthusiast passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI. I enjoy building practical solutions and exploring new technologies. Skilled in Python, Scikit-learn, OpenCV, SQL, databases, AWS, Docker, and full-stack development
+##Hello! I'm an AI/ML enthusiast passionate about Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI. I enjoy building practical solutions and exploring new technologies. Skilled in Python, Scikit-learn, OpenCV, SQL, databases, AWS, Docker, and full-stack development
 
 ## Tech Stack & Tools
 
