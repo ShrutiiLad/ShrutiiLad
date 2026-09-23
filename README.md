@@ -1,9 +1,12 @@
-# Hello! I'm an AI/ML Enthusiast
+##  Hey, I'm Shruti!
 
-I'm passionate about **Machine Learning, Deep Learning, Computer Vision, NLP, and Generative AI**.  
-I enjoy building practical solutions and exploring new technologies.
+I'm a curious learner and AI/ML enthusiast who loves building things and figuring out how they work.
 
-Skilled in **Python, Scikit-learn, OpenCV, SQL, Databases, AWS, Docker, and Full-Stack Development.**
+Currently exploring the world of Machine Learning and AI through hands-on projects, 
+experimentation, and a lot of learning along the way.
+
+I believe the best way to learn is to build, break, fix, and build again. 
+
 
 ## Tech Stack & Tools
 
